@@ -66,6 +66,10 @@ nav li a:hover{
   text-align: center;
 }
 
+.main_content{
+  font-size: 30px;
+}
+
 .products{
   display: flex;
   justify-content: space-evenly;
@@ -80,7 +84,9 @@ nav li a:hover{
 }
 
 .product{
-  margin: 5%;
+  margin-top: -310px;
+  background-color: white;
+  padding: 20px;
 }
 
 
